@@ -12,3 +12,6 @@ Let's GO
 
 # 2023-11-18
 - "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's important to remember that code is read more often than it's written, so making it easy for others (and your future self) to understand is crucial. Use descriptive variable names, write clear comments, and structure your code in a logical way. Also, don't be afraid to refactor your code if you find ways to make it better. Lastly, always use version control like Git to keep track of changes and collaborate with others effectively."
+
+# 2023-11-19
+- "Keep it simple, stupid!"
