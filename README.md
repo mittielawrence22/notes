@@ -36,3 +36,6 @@ Second, use time management techniques to your advantage. Break down your projec
 
 To be successful in the programming field, you must also develop excellent communication and teamwork skills, as most projects involve collaborating with other professionals. Effective communication helps to ensure that everyone is on the same page and that the project remains on track. Additionally, being able to break down complex problems into manageable tasks and explain technical concepts to non-technical team members is crucial. 
  - 来自n.p.t.
+
+# 2023-11-24
+- "Keep it simple, stupid!"
