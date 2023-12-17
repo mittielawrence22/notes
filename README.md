@@ -121,3 +121,10 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger projects into smaller, manageable tasks. By planning ahead and staying organized, you can avoid last-minute panic and stress.
 
 Use version control systems like Git to keep track of your code and collaborate with others. Make sure to write concise, well-documented code that is easy to understand and maintain. Learn to use debugging tools and understand how your program works so you know how to fix any issues that may arise. Practice good programming habits like commenting yourcode, organizing your files, using functions and modules to reuse code,and following coding standards. These habits will make your life as a programmer much easier and more enjoyable.
+
+# 2023-12-17
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Use task management tools: There are many task managment tools available, such as Trello, Asana, or Todoist, that can help organize your tasks and keep track of your progress.
+2. Break down large projects: Divide large, complex projects into smaller, manageable tasks. By breaking down the project, you can focus on each task individually, making it easier to complete them. 
+3. Set deadlines: For each tasks or project milestone, set a deadline. Deadlines can keep you motivated and focused on completing the task on time. Make sure to give yourself enough time to finish each step. Don't set unrealistic deadlines. They will only lead to frustration and disappointment.
