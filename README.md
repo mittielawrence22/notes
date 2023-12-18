@@ -128,3 +128,8 @@ Use version control systems like Git to keep track of your code and collaborate 
 1. Use task management tools: There are many task managment tools available, such as Trello, Asana, or Todoist, that can help organize your tasks and keep track of your progress.
 2. Break down large projects: Divide large, complex projects into smaller, manageable tasks. By breaking down the project, you can focus on each task individually, making it easier to complete them. 
 3. Set deadlines: For each tasks or project milestone, set a deadline. Deadlines can keep you motivated and focused on completing the task on time. Make sure to give yourself enough time to finish each step. Don't set unrealistic deadlines. They will only lead to frustration and disappointment.
+
+# 2023-12-18
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to complex, hard-to-maintain code. It's better to write clear, simple code first and optimize only when profiling reveals bottlenecks.
