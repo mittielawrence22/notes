@@ -150,3 +150,6 @@ Another important aspect of being a wise programmer is understanding the importa
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project first. It also helps to break down larger tasks into smaller, more manageable pieces, so that they can easily be accomplished. 
  2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you plan to go about it. Creating a plan for your project will ensure you stay on track and make better decisions along the way. Planning also includes considering potential roadblocks and challenges you may encounter, as well as potential solutions to these issues.  
 3. Stay organized: Keeping your code and project files organized is a must if you hope to work efficiently. Using version control systems, such as Git, can help with this, by allowing you track changes and collaborate with others on your team. Additionally, using well-structured code, with clear comments and documentation, will make it easier for you and others to understand and maintain your work.
+
+# 2023-12-22
+- "Keep it simple, stupid!"
