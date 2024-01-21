@@ -291,3 +291,6 @@ Ultimately, the goal is to create robust and efficient solutions that are also u
 
 # 2024-01-20
 - "Keep it simple, stupid!"
+
+# 2024-01-21
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines promote better software design by making code more modular, scalable, maintainable, and easier to understand. Remember that clarity and simplicity are key in complex systems, and always strive to write code that is not only functional but also readable and adaptable for future changes."
