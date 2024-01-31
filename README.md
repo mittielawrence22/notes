@@ -332,3 +332,14 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger projects into smaller, manageable tasks. By doing this, you can better track your progress and make adjustments as needed.
 
 Remember to take breaks throughout the day to avoid burnout and maintain your focus. Use tools like task managers, calendars, or lists to keep track of your tasks to ensure you don't forget anything. Additionally, learn to say "no" to tasks that aren' t a priority or don 't align with your goals. Finally, stay up-to-date with new technologies and programming languages to grow your skillset and remain competitive in the industry.
+
+# 2024-01-31
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles promote code that's maintainable, scalable, and easier to understand. Each rule guides you towards writing clean, modular, and adaptable software that can gracefully evolve with changing requirements over time." 
+
+SOLID principles are fundamental guidelines in object-oriented programming that encourage developers to design systems composed of modules that are:
+
+1. **Single-Responsibility (SRP)**: A class should have only one reason to change.
+2. **Open-Closed (OCP)**: Software entities should be open for extension but closed for modification.
+3. **Liskov Substitution (LSP)**: Derived classes must be substitutable for their base classes.
+4. **Interface Segregation (ISP)**: Make fine-grained interfaces that clients will use what they need instead of being forced to depend on methods they do not use.
+5. **Dependency Inversion (DIP)**: Depend upon abstractions, not concretions; high-level modules should not depend on low-level modules, both should depend on abstractions.
