@@ -404,3 +404,8 @@ Remember, the code you write today might be read, understood, and modified by ot
 
 Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to overcome them. It will also help to keep you focused and on track with your goals. 
  ..
+
+# 2024-02-12
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary and after profiling. Remember that simplicity and clarity enhance productivity and reduce bugs, while over-engineering for hypothetical performance gains can introduce unnecessary complexity." 
+
+"In addition, 'Code is read much more often than it is written.' - Robert C. Martin ('Uncle Bob'). Always strive to write self-documenting code that is easy for others (and your future self) to understand, as this significantly aids in collaboration, debugging, and long-term project success."
